@@ -1,5 +1,9 @@
 /**
- * Methods to encrypt and decript Strings using a Caesar Cipher
+ * Methods to encrypt and decript Strings using a Caesar Cipher. A Caesar Cipher
+ * is an encryption method that operates by shifting letters of your message a
+ * certain number of characters forwards or backwards. It is not a very secure
+ * encyption technique, as the frequency of letters present in the English
+ * language can easily be used to discover the key used to encrypt the message.
  *
  * @author  Thomas Coe
  * @version 1.0 2013-10-17
