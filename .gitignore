@@ -1,4 +1,5 @@
 *.class
+cs1331-checkstyle.xml
 
 # Package Files #
 *.jar
